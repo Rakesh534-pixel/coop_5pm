@@ -4,6 +4,7 @@ Go to the browser → Power BI Service (app.powerbi.com)→
 Connect using the below credentials:
 User name: vinaytech_0807@vinaytechhouse.com
 Password: vinaytech@2024
+----------------------------------------------------------------------------------
 Go to “Apps” in the left hand side pane→ Customer will find the above App automatically 
 if the option “Install Automatically” selected, otherwise customer can click Get Apps, 
 search and get the appropriate app. 
@@ -16,3 +17,7 @@ credentials. [Go to play store or any store, download Power BI App]
  Power BI Account: vinaytech_260724@vinaytechhouse.com
 Password: vinaytech@2024
 Go to Apps, Under Recent, click the App created [or browse for app], browse reports.
+
+User name: vinaytech_210924@vinaytechhouse.com
+Password: vinaytech@2024
+
