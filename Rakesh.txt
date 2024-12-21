@@ -1,0 +1,18 @@
+ Customer may view the App in either of the ways
+a) Web View [many interactive options while browsing]
+Go to the browser → Power BI Service (app.powerbi.com)→
+Connect using the below credentials:
+User name: vinaytech_0807@vinaytechhouse.com
+Password: vinaytech@2024
+Go to “Apps” in the left hand side pane→ Customer will find the above App automatically 
+if the option “Install Automatically” selected, otherwise customer can click Get Apps, 
+search and get the appropriate app. 
+Browse the reports in the Appspace and monitor menu tab options
+(File, Export, Share, Bookmark etc.)
+b) Mobile View / Tab View [limited interactive options while browsing]
+Customer can login and see the app assigned to him.
+Open mobile / tab, go to Power BI App, choose Power BI Service, and use the below 
+credentials. [Go to play store or any store, download Power BI App]
+ Power BI Account: vinaytech_260724@vinaytechhouse.com
+Password: vinaytech@2024
+Go to Apps, Under Recent, click the App created [or browse for app], browse reports.
